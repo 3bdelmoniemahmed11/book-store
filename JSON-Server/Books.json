@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "title": "angular",
+      "price": "200",
+      "description": "Learn angular from zero to hero\n",
+      "userName": "abdelmoniem",
+      "id": 1
+    },
+    {
+      "title": "react.js",
+      "price": "3000",
+      "description": "learn react.js and redux toolkit",
+      "userName": "abdelmoniem",
+      "id": 2
+    },
+    {
+      "title": "sass",
+      "price": "3000",
+      "description": "learn saas",
+      "userName": "abdelmoniem",
+      "id": 3
+    }
+  ]
+}
